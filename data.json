@@ -1,6 +1,6 @@
 {
-  "version": "1.0.40",
-  "lastUpdated": "2022-09-08T15:59:28",
+  "version": "1.0.41",
+  "lastUpdated": "2022-11-15T13:59:42",
   "events": [
     {
       "id": "evt_1780640855025_9776",
@@ -240,6 +240,12 @@
       "id": "evt_1780641339935_6012",
       "timestamp": "2022-09-08T10:59:28.000Z",
       "action": "update",
+      "status": "ok"
+    },
+    {
+      "id": "evt_1780641340024_8589",
+      "timestamp": "2022-11-15T08:59:42.000Z",
+      "action": "patch",
       "status": "ok"
     }
   ]
