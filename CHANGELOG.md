@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- 2026-06-03: perf(ui): fix memory leak in worker
 - 2024-09-26: Fix broken unit test
 - 2021-05-18: Update dependencies
 - 2024-05-14: test(auth): fix pagination offset
